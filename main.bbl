@@ -1,65 +1,412 @@
-\begin{thebibliography}{10}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem{web:udc}
-Teacode.
-\newblock Справочник УДК, декабрь 2022.
 
-\bibitem{web:wiki-chess-history}
-Википедия.
-\newblock История шахмат, декабрь 2022.
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{web:kleysnab}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e211aa1367efeff37a113f36108e8aed}{%
+           family={``КлейСнаб''},
+           familyi={``\bibinitperiod},
+           given={Компания},
+           giveni={К\bibinitperiod}}}%
+      }
+      \strng{namehash}{e211aa1367efeff37a113f36108e8aed}
+      \strng{fullhash}{e211aa1367efeff37a113f36108e8aed}
+      \strng{bibnamehash}{e211aa1367efeff37a113f36108e8aed}
+      \strng{authorbibnamehash}{e211aa1367efeff37a113f36108e8aed}
+      \strng{authornamehash}{e211aa1367efeff37a113f36108e8aed}
+      \strng{authorfullhash}{e211aa1367efeff37a113f36108e8aed}
+      \field{sortinit}{К}
+      \field{sortinithash}{007824ff2af181c6f6762379475efd5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Клей ПВА универсальный --- свойства, технические характеристики и виды}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.kleysnab.ru/blog/kley-pva-xarakteristiki-i-opisanie
+      \endverb
+      \verb{url}
+      \verb https://www.kleysnab.ru/blog/kley-pva-xarakteristiki-i-opisanie
+      \endverb
+    \endentry
+    \entry{web:blind-chess-price-min}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c76bce73fe536fe2c90baadc8f744208}{%
+           family={``Конвекта''},
+           familyi={``\bibinitperiod},
+           given={ООО},
+           giveni={О\bibinitperiod}}}%
+      }
+      \strng{namehash}{c76bce73fe536fe2c90baadc8f744208}
+      \strng{fullhash}{c76bce73fe536fe2c90baadc8f744208}
+      \strng{bibnamehash}{c76bce73fe536fe2c90baadc8f744208}
+      \strng{authorbibnamehash}{c76bce73fe536fe2c90baadc8f744208}
+      \strng{authornamehash}{c76bce73fe536fe2c90baadc8f744208}
+      \strng{authorfullhash}{c76bce73fe536fe2c90baadc8f744208}
+      \field{sortinit}{К}
+      \field{sortinithash}{007824ff2af181c6f6762379475efd5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Шахматы для слепых купить}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://купитьшахматы.рф/шахматы/турнирные-классические/шахматы-для-слепых/
+      \endverb
+      \verb{url}
+      \verb https://xn--80aawhmpwdcy5a5bg.xn--p1ai/%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B/%D1%82%D1%83%D1%80%D0%BD%D0%B8%D1%80%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5/%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%81%D0%BB%D0%B5%D0%BF%D1%8B%D1%85/
+      \endverb
+    \endentry
+    \entry{web:merani}{online}{}
+      \name{author}{1}{}{%
+        {{hash=99f7e42f295f0f73a4c8c047f79a81ad}{%
+           family={``Мерани''},
+           familyi={``\bibinitperiod},
+           given={Компания},
+           giveni={К\bibinitperiod}}}%
+      }
+      \strng{namehash}{99f7e42f295f0f73a4c8c047f79a81ad}
+      \strng{fullhash}{99f7e42f295f0f73a4c8c047f79a81ad}
+      \strng{bibnamehash}{99f7e42f295f0f73a4c8c047f79a81ad}
+      \strng{authorbibnamehash}{99f7e42f295f0f73a4c8c047f79a81ad}
+      \strng{authornamehash}{99f7e42f295f0f73a4c8c047f79a81ad}
+      \strng{authorfullhash}{99f7e42f295f0f73a4c8c047f79a81ad}
+      \field{sortinit}{М}
+      \field{sortinithash}{3750e8e5bcd54966a663076166442576}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Экологичность фанеры}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.merani.ru/press-tsentr/stati/ekologichnost-fanery/
+      \endverb
+      \verb{url}
+      \verb https://www.merani.ru/press-tsentr/stati/ekologichnost-fanery/
+      \endverb
+    \endentry
+    \entry{web:udc}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a19ef2a7b8fedff73666fbbb81303c5b}{%
+           family={Teacode},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{a19ef2a7b8fedff73666fbbb81303c5b}
+      \strng{fullhash}{a19ef2a7b8fedff73666fbbb81303c5b}
+      \strng{bibnamehash}{a19ef2a7b8fedff73666fbbb81303c5b}
+      \strng{authorbibnamehash}{a19ef2a7b8fedff73666fbbb81303c5b}
+      \strng{authornamehash}{a19ef2a7b8fedff73666fbbb81303c5b}
+      \strng{authorfullhash}{a19ef2a7b8fedff73666fbbb81303c5b}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Справочник УДК}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb http://teacode.com/online/udc/index.html
+      \endverb
+      \verb{url}
+      \verb http://teacode.com/online/udc/index.html
+      \endverb
+    \endentry
+    \entry{web:wiki-latex}{online}{}
+      \name{author}{1}{}{%
+        {{hash=20611e934261298f5f6606ff791be2e3}{%
+           family={Википедия},
+           familyi={В\bibinitperiod}}}%
+      }
+      \strng{namehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{fullhash}{20611e934261298f5f6606ff791be2e3}
+      \strng{bibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
+      \field{extraname}{1}
+      \field{sortinit}{В}
+      \field{sortinithash}{769561dacf0468c568f33adb4926797c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{LaTeX}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://ru.wikipedia.org/wiki/LaTeX
+      \endverb
+      \verb{url}
+      \verb https://ru.wikipedia.org/wiki/LaTeX
+      \endverb
+    \endentry
+    \entry{web:wiki-vim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=20611e934261298f5f6606ff791be2e3}{%
+           family={Википедия},
+           familyi={В\bibinitperiod}}}%
+      }
+      \strng{namehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{fullhash}{20611e934261298f5f6606ff791be2e3}
+      \strng{bibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
+      \field{extraname}{2}
+      \field{sortinit}{В}
+      \field{sortinithash}{769561dacf0468c568f33adb4926797c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Vim}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://ru.wikipedia.org/wiki/Vim
+      \endverb
+      \verb{url}
+      \verb https://ru.wikipedia.org/wiki/Vim
+      \endverb
+    \endentry
+    \entry{web:wiki-banner}{online}{}
+      \name{author}{1}{}{%
+        {{hash=20611e934261298f5f6606ff791be2e3}{%
+           family={Википедия},
+           familyi={В\bibinitperiod}}}%
+      }
+      \strng{namehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{fullhash}{20611e934261298f5f6606ff791be2e3}
+      \strng{bibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
+      \field{extraname}{3}
+      \field{sortinit}{В}
+      \field{sortinithash}{769561dacf0468c568f33adb4926797c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Баннер}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://ru.wikipedia.ru/wiki/Баннер
+      \endverb
+      \verb{url}
+      \verb https://ru.wikipedia.ru/wiki/%D0%91%D0%B0%D0%BD%D0%BD%D0%B5%D1%80
+      \endverb
+    \endentry
+    \entry{web:wiki-chess-history}{online}{}
+      \name{author}{1}{}{%
+        {{hash=20611e934261298f5f6606ff791be2e3}{%
+           family={Википедия},
+           familyi={В\bibinitperiod}}}%
+      }
+      \strng{namehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{fullhash}{20611e934261298f5f6606ff791be2e3}
+      \strng{bibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
+      \field{extraname}{4}
+      \field{sortinit}{В}
+      \field{sortinithash}{769561dacf0468c568f33adb4926797c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{История шахмат}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://ru.wikipedia.org/wiki/Шахматы
+      \endverb
+      \verb{url}
+      \verb https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B
+      \endverb
+    \endentry
+    \entry{web:wiki-ibca}{online}{}
+      \name{author}{1}{}{%
+        {{hash=20611e934261298f5f6606ff791be2e3}{%
+           family={Википедия},
+           familyi={В\bibinitperiod}}}%
+      }
+      \strng{namehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{fullhash}{20611e934261298f5f6606ff791be2e3}
+      \strng{bibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
+      \field{extraname}{5}
+      \field{sortinit}{В}
+      \field{sortinithash}{769561dacf0468c568f33adb4926797c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Международная ассоциация незрячих шахматистов}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://ru.wikipedia.ru/wiki/Международная_ассоциация_незрячих_шахматистов
+      \endverb
+      \verb{url}
+      \verb https://ru.wikipedia.ru/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D1%8F_%D0%BD%D0%B5%D0%B7%D1%80%D1%8F%D1%87%D0%B8%D1%85_%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2
+      \endverb
+    \endentry
+    \entry{web:wiki-chess-notation}{online}{}
+      \name{author}{1}{}{%
+        {{hash=20611e934261298f5f6606ff791be2e3}{%
+           family={Википедия},
+           familyi={В\bibinitperiod}}}%
+      }
+      \strng{namehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{fullhash}{20611e934261298f5f6606ff791be2e3}
+      \strng{bibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
+      \field{extraname}{6}
+      \field{sortinit}{В}
+      \field{sortinithash}{769561dacf0468c568f33adb4926797c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Шахматная нотация}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://ru.wikipedia.ru/wiki/Шахматная_нотация
+      \endverb
+      \verb{url}
+      \verb https://ru.wikipedia.ru/wiki/%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F
+      \endverb
+    \endentry
+    \entry{web:wiki-chess}{online}{}
+      \name{author}{1}{}{%
+        {{hash=20611e934261298f5f6606ff791be2e3}{%
+           family={Википедия},
+           familyi={В\bibinitperiod}}}%
+      }
+      \strng{namehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{fullhash}{20611e934261298f5f6606ff791be2e3}
+      \strng{bibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
+      \field{extraname}{7}
+      \field{sortinit}{В}
+      \field{sortinithash}{769561dacf0468c568f33adb4926797c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Шахматы}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://ru.wikipedia.org/wiki/История\_шахмат
+      \endverb
+      \verb{url}
+      \verb https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%5C_%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82
+      \endverb
+    \endentry
+    \entry{web:docs}{online}{}
+      \name{author}{1}{}{%
+        {{hash=de2c63fd8de24f2a65f608512b72f222}{%
+           family={Кодекс},
+           familyi={К\bibinitperiod},
+           given={Информационная},
+           giveni={И\bibinitperiod},
+           prefix={компания},
+           prefixi={к\bibinitperiod}}}%
+      }
+      \strng{namehash}{de2c63fd8de24f2a65f608512b72f222}
+      \strng{fullhash}{de2c63fd8de24f2a65f608512b72f222}
+      \strng{bibnamehash}{de2c63fd8de24f2a65f608512b72f222}
+      \strng{authorbibnamehash}{de2c63fd8de24f2a65f608512b72f222}
+      \strng{authornamehash}{de2c63fd8de24f2a65f608512b72f222}
+      \strng{authorfullhash}{de2c63fd8de24f2a65f608512b72f222}
+      \field{sortinit}{К}
+      \field{sortinithash}{007824ff2af181c6f6762379475efd5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Электронный фонд правовой и нормативно-технической информации}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://docs.cntd.ru/
+      \endverb
+      \verb{url}
+      \verb https://docs.cntd.ru/
+      \endverb
+    \endentry
+    \entry{web:min-educ}{online}{}
+      \name{author}{1}{}{%
+        {{hash=5a1f2840b2c9b1ad649bf7f181e94646}{%
+           family={России},
+           familyi={Р\bibinitperiod},
+           given={Министерство},
+           giveni={М\bibinitperiod},
+           prefix={просвещения},
+           prefixi={п\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a1f2840b2c9b1ad649bf7f181e94646}
+      \strng{fullhash}{5a1f2840b2c9b1ad649bf7f181e94646}
+      \strng{bibnamehash}{5a1f2840b2c9b1ad649bf7f181e94646}
+      \strng{authorbibnamehash}{5a1f2840b2c9b1ad649bf7f181e94646}
+      \strng{authornamehash}{5a1f2840b2c9b1ad649bf7f181e94646}
+      \strng{authorfullhash}{5a1f2840b2c9b1ad649bf7f181e94646}
+      \field{sortinit}{Р}
+      \field{sortinithash}{72653a62bb3cb54ced08865870aff9d6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Международный день слепых}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://edu.gov.ru/
+      \endverb
+      \verb{url}
+      \verb https://edu.gov.ru/
+      \endverb
+    \endentry
+    \entry{web:blind-chess-price-max}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2110c4a2b142eada9bf3564fe00ff9ec}{%
+           family={Трейдинг''},
+           familyi={Т\bibinitperiod},
+           given={ООО\bibnamedelimb ``Исток\bibnamedelima Аудио},
+           giveni={О\bibinitperiod\bibinitdelim ``\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \strng{namehash}{2110c4a2b142eada9bf3564fe00ff9ec}
+      \strng{fullhash}{2110c4a2b142eada9bf3564fe00ff9ec}
+      \strng{bibnamehash}{2110c4a2b142eada9bf3564fe00ff9ec}
+      \strng{authorbibnamehash}{2110c4a2b142eada9bf3564fe00ff9ec}
+      \strng{authornamehash}{2110c4a2b142eada9bf3564fe00ff9ec}
+      \strng{authorfullhash}{2110c4a2b142eada9bf3564fe00ff9ec}
+      \field{sortinit}{Т}
+      \field{sortinithash}{f2616f6a7966d80048da61c919aeb3ae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Шахматы для незрячих}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.smartaids.ru/catalog/product/shakhmaty-dlya-nezryachikh/
+      \endverb
+      \verb{url}
+      \verb https://www.smartaids.ru/catalog/product/shakhmaty-dlya-nezryachikh/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
 
-\bibitem{web:wiki-chess}
-Википедия.
-\newblock Шахматы, декабрь 2022.
-
-\bibitem{web:wiki-latex}
-Википедия.
-\newblock Latex, январь 2023.
-
-\bibitem{web:wiki-vim}
-Википедия.
-\newblock Vim, январь 2023.
-
-\bibitem{web:wiki-banner}
-Википедия.
-\newblock Баннер, январь 2023.
-
-\bibitem{web:wiki-ibca}
-Википедия.
-\newblock Международная ассоциация незрячих
-  шахматистов, январь 2023.
-
-\bibitem{web:wiki-chess-notation}
-Википедия.
-\newblock Шахматная нотация, январь 2023.
-
-\bibitem{web:kleysnab}
-Компания ``КлейСнаб''.
-\newblock Клей ПВА универсальный --- свойства,
-  технические характеристики и виды, январь
-  2023.
-
-\bibitem{web:docs}
-Информационная~компания Кодекс.
-\newblock Электронный фонд правовой и
-  нормативно-технической информации,
-  декабрь 2022.
-
-\bibitem{web:blind-chess-price-min}
-ООО ``Конвекта''.
-\newblock Шахматы для слепых купить, январь 2023.
-
-\bibitem{web:merani}
-Компания ``Мерани''.
-\newblock Экологичность фанеры, январь 2023.
-
-\bibitem{web:min-educ}
-Министерство~просвещения России.
-\newblock Международный день слепых, декабрь
-  2022.
-
-\bibitem{web:blind-chess-price-max}
-ООО ``Исток~Аудио Трейдинг''.
-\newblock Шахматы для незрячих, январь 2023.
-
-\end{thebibliography}

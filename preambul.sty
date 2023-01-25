@@ -24,7 +24,12 @@
 \linespread{1.3}
 
 %Библиография
-\usepackage[]{cite}
+\usepackage[%
+    backend=biber,
+    style=numeric,
+    sorting=nty,
+]{biblatex}
+\addbibresource{bib.bib}
 
 %Настройка вложенных списков
 \renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}}

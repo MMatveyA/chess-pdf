@@ -22,3 +22,4 @@
 \contentsline {subsection}{\numberline {3.2}Экологическая оценка}{15}{}%
 \contentsline {subsection}{\numberline {3.3}Вывод}{16}{}%
 \contentsline {section}{Список литературы}{18}{}%
+\contentsline {subsection}{Интернет--ресурсы}{18}{}%
