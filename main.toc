@@ -1,0 +1,24 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Аннотация}{3}{}%
+\contentsline {section}{Определения}{4}{}%
+\contentsline {section}{Обозначения и сокращения}{4}{}%
+\contentsline {section}{\numberline {1}Введение}{5}{}%
+\contentsline {subsection}{\numberline {1.1}Актуальность и обоснование проблемы}{5}{}%
+\contentsline {subsection}{\numberline {1.2}Тема работы}{5}{}%
+\contentsline {subsection}{\numberline {1.3}Цель работы}{5}{}%
+\contentsline {subsection}{\numberline {1.4}Задачи}{5}{}%
+\contentsline {section}{\numberline {2}Основная часть}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Анализ исторических прототипов и современных прототипов}{6}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Шахматы}{6}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Методы расширения аудитории}{8}{}%
+\contentsline {subsection}{\numberline {2.2}Решение выявленных проблем}{9}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Тактильные шахматы}{9}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Реклама}{12}{}%
+\contentsline {subsection}{\numberline {2.3}Реализация решения выявленных проблем}{12}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Создание тактильных шахмат}{12}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Разработка рекламы}{13}{}%
+\contentsline {section}{\numberline {3}Заключение}{15}{}%
+\contentsline {subsection}{\numberline {3.1}Экономическая оценка}{15}{}%
+\contentsline {subsection}{\numberline {3.2}Экологическая оценка}{15}{}%
+\contentsline {subsection}{\numberline {3.3}Вывод}{16}{}%
+\contentsline {section}{Список литературы}{18}{}%

@@ -1,0 +1,24 @@
+\documentclass[a4paper,pdflatex]{article}
+\usepackage[14pt]{extsizes}
+
+\usepackage{preambul} 
+
+\begin{document}
+
+\include{title}
+\setcounter{page}{2}
+
+\tableofcontents
+
+\include{annotation}
+\include{definition}
+\include{introduction}
+\include{body}
+\include{conclusion}
+
+%Список литературы
+\addcontentsline{toc}{section}{Список литературы}
+\bibliographystyle{plain}
+\bibliography{bib}
+
+\end{document}

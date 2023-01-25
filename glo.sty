@@ -1,0 +1,52 @@
+\ProvidesPackage{glo}
+
+\usepackage[acronym,toc]{glossaries}
+
+\makeglossaries%
+
+\newglossaryentry{banner}
+{%
+    name=баннер,
+    description={графическое изображение рекламного характера}
+}
+
+\newglossaryentry{blind-man}
+{%
+    name={слабовидящий человек},
+    description={человек, имеющий снижение остроты зрения различной степени},
+}
+
+\newglossaryentry{ibca-t}
+{%
+    name={международная ассоциация незрячих шахматистов},
+    description={международная\\ спортивная организация, объединяющая
+    национальные шахматные федерация слепых и слабовидящих шахматистов}
+}
+\newglossaryentry{chess}
+{%
+    name={шахматы},
+    description={настольная логическая игра с шахматными фигурами на
+    64-кле\-точ\-ной доске~\cite{web:wiki-chess}}
+}
+
+\newglossaryentry{chess-not}
+{%
+    name={шахматная нотация},
+    description={система условных обозначений, применяемых для записи шахматной
+    партии или положения фигур на шахматной
+    доске~\cite{web:wiki-chess-notation}}
+}
+
+\newglossaryentry{latex}
+{%
+    name={\LaTeX\ },
+    description={набор макрорасширений системы компьютерной вёрстки~\cite{web:wiki-latex}}
+}
+
+\newglossaryentry{vim}
+{%
+    name={vim},
+    description={свободный текстовый редактор~\cite{web:wiki-vim}}
+}
+
+\newacronym{ibca}{IBCA}{\gls{ibca-t}}
