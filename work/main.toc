@@ -11,15 +11,15 @@
 \contentsline {subsection}{\numberline {2.1}Анализ исторических прототипов и современных прототипов}{6}{}%
 \contentsline {subsubsection}{\numberline {2.1.1}Шахматы}{6}{}%
 \contentsline {subsubsection}{\numberline {2.1.2}Методы расширения аудитории}{8}{}%
-\contentsline {subsection}{\numberline {2.2}Решение выявленных проблем}{9}{}%
-\contentsline {subsubsection}{\numberline {2.2.1}Тактильные шахматы}{9}{}%
+\contentsline {subsection}{\numberline {2.2}Теоретическая часть}{10}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Тактильные шахматы}{10}{}%
 \contentsline {subsubsection}{\numberline {2.2.2}Реклама}{12}{}%
-\contentsline {subsection}{\numberline {2.3}Реализация решения выявленных проблем}{12}{}%
-\contentsline {subsubsection}{\numberline {2.3.1}Создание тактильных шахмат}{12}{}%
-\contentsline {subsubsection}{\numberline {2.3.2}Разработка рекламы}{13}{}%
-\contentsline {section}{\numberline {3}Заключение}{15}{}%
-\contentsline {subsection}{\numberline {3.1}Экономическая оценка}{15}{}%
-\contentsline {subsection}{\numberline {3.2}Экологическая оценка}{15}{}%
-\contentsline {subsection}{\numberline {3.3}Вывод}{16}{}%
-\contentsline {section}{Список литературы}{18}{}%
-\contentsline {subsection}{Интернет--ресурсы}{18}{}%
+\contentsline {subsection}{\numberline {2.3}Практическая часть}{14}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Создание тактильных шахмат}{14}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Разработка рекламы}{14}{}%
+\contentsline {section}{\numberline {3}Заключение}{16}{}%
+\contentsline {subsection}{\numberline {3.1}Экономическая оценка}{16}{}%
+\contentsline {subsection}{\numberline {3.2}Экологическая оценка}{16}{}%
+\contentsline {subsection}{\numberline {3.3}Вывод}{17}{}%
+\contentsline {section}{Список литературы}{19}{}%
+\contentsline {subsection}{Интернет--ресурсы}{19}{}%
