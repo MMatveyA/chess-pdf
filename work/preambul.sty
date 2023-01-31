@@ -11,6 +11,8 @@
 
 \usepackage[pdftex]{graphicx}
 \graphicspath{{images/}}
+\usepackage[]{tikz}
+\usetikzlibrary{calc,intersections}
 
 %Поля
 \usepackage{geometry}
@@ -36,4 +38,15 @@
 \renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}}
 \renewcommand{\labelenumiv}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.\arabic{enumiv}}
 
-\usepackage{glo} 
+\usepackage{glo}
+
+%Гипперссылки
+\usepackage{hyperref}
+\hypersetup{%
+    colorlinks=true,
+    citecolor=black,
+    linkcolor=black,
+    filecolor=black,
+    urlcolor=black,
+    pdftitle={Тактильные шахматы},
+    }

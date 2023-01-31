@@ -111,7 +111,6 @@
 практически отсутствием издержек, охватом огромной аудитории (каждый человек,
 пользующийся интернетом). В настоящее время это лучший метод рекламирования.
 
-\newpage
 \subsection{Теоретическая часть}
 \subsubsection{Тактильные шахматы}
 В процессе анализа были сформированы следующие минимально необходимые критерии
@@ -195,7 +194,6 @@
 получится охватить гораздо большую аудиторию, чем при аудио--рекламе, которая
 хорошо воспринимается слабовидящими людьми.
 
-\newpage
 \subsection{Практическая часть}
 \subsubsection{Создание тактильных шахмат}
 При анализе возможных методов изготовления, была выбрана модель ``слоёного
@@ -220,18 +218,71 @@
 использован лак. 
 
 \subsubsection{Разработка рекламы}
-Для рекламы на интернет--площадках, мною была выбрана форма
-\gls{banner}~\cite{web:wiki-banner}. Она предполагает:
-\begin{itemize}
-    \item прямоугольную форму
-    \item статичную картинку
-\end{itemize}
+Для создания рекламного баннера был выбран визуальный редактор \acrshort{gimp},
+так как он обладает широким функционалом и распространяется по открытой
+лицензии.
 
-Рассмотрев выше указанные требования к рекламному баннеру, я составил такой образец.
+Для рекламы на интернет--площадках, мною была выбрана форма
+\gls{banner}а~\cite{web:wiki-banner}. Она предполагает прямоугольную форму с
+соотношением сторон 1 к 2. Стандартным разрешением (соотношением высоты
+изображения к его ширине) для рекламного \gls{banner}а используется
+320\acrshort{px} на 640\acrshort{px}. Используя \gls{gold-ratio} для построения
+общего макета баннера, получим рисунок~\ref{fig:base-template}. Чёрными
+точками и утолщёнными линиями отмечены места, где должны располагаться наиболее
+значимые элементы рекламы (например, название изделия, изображение изделия,
+товарный знак). Разместив все необходимые элементы, получим следующий макет
+рекламы (смотреть рисунок~\ref{fig:adversting-template}). Разместив текст в
+поля, размеченные на рисунке~\ref{fig:adversting-template}, получим финальное
+изображение макета (смотреть рисунок~\ref{fig:adversting-final}). После
+добавления \gls{gradient}ного заднего фона, получаем финальное изображение рекламного
+\gls{banner}а (смотреть рисунок~\ref{fig:adv-final}).
+\begin{figure}[htpb]
+    \begin{center}
+        \begin{tikzpicture}[scale=0.5]
+            \coordinate (A) at (-320px,-160px);
+            \coordinate (B) at (-320px,160px);
+            \coordinate (C) at (320px,160px);
+            \coordinate (D) at (320px,-160px);
+
+            \draw (A)
+                -- node[left] {320} (B)
+                -- node[above] {640} (C)
+                -- (D)
+                -- cycle;
+
+            \draw[ultra thick] (A) -- (C);
+            \draw[ultra thick] (B) -- (D);
+
+            \draw[ultra thick] (-320px,{160px*0.250}) -- +(640px,0);
+            \draw[ultra thick] (-320px,-{160px*0.250}) -- +(640px,0);
+            \draw[ultra thick] (-{320px*0.250},-160px) -- +(0,320px);
+            \draw[ultra thick] ({320px*0.250},-160px) -- +(0,320px);
+
+            \draw[fill=black] (-{320px*0.250},-{160px*0.250}) circle (6pt);
+            \draw[fill=black] (-{320px*0.250},{160px*0.250}) circle (6pt);
+            \draw[fill=black] ({320px*0.250},{160px*0.250}) circle (6pt);
+            \draw[fill=black] ({320px*0.250},-{160px*0.250}) circle (6pt);
+        \end{tikzpicture}
+    \end{center}
+    \caption{Макет рекламного баннера}%
+    \label{fig:base-template}
+\end{figure}
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.9\textwidth]{adversting}
-    \caption{Пример рекламы}\label{fig:adversting}
+    \includegraphics[width=0.8\textwidth]{adversting}
+    \caption{Макет рекламного \gls{banner}а с разметкой полей}\label{fig:adversting-template}
 \end{figure}
-\newpage
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{adversting-final}
+    \caption{Конечный шаблон рекламы}\label{fig:adversting-final}
+\end{figure}
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{adv-final}
+    \caption{Финальное изображение рекламного баннера}%
+    \label{fig:adv-final}
+\end{figure}

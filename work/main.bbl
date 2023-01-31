@@ -129,7 +129,7 @@
       \verb http://teacode.com/online/udc/index.html
       \endverb
     \endentry
-    \entry{web:wiki-latex}{online}{}
+    \entry{web:gimp}{online}{}
       \name{author}{1}{}{%
         {{hash=20611e934261298f5f6606ff791be2e3}{%
            family={Википедия},
@@ -142,6 +142,33 @@
       \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
       \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
       \field{extraname}{1}
+      \field{sortinit}{В}
+      \field{sortinithash}{769561dacf0468c568f33adb4926797c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{GIMP}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://ru.wikipedia.org/wiki/GIMP
+      \endverb
+      \verb{url}
+      \verb https://ru.wikipedia.org/wiki/GIMP
+      \endverb
+    \endentry
+    \entry{web:wiki-latex}{online}{}
+      \name{author}{1}{}{%
+        {{hash=20611e934261298f5f6606ff791be2e3}{%
+           family={Википедия},
+           familyi={В\bibinitperiod}}}%
+      }
+      \strng{namehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{fullhash}{20611e934261298f5f6606ff791be2e3}
+      \strng{bibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
+      \field{extraname}{2}
       \field{sortinit}{В}
       \field{sortinithash}{769561dacf0468c568f33adb4926797c}
       \field{labelnamesource}{author}
@@ -168,7 +195,7 @@
       \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
       \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
       \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{В}
       \field{sortinithash}{769561dacf0468c568f33adb4926797c}
       \field{labelnamesource}{author}
@@ -195,7 +222,7 @@
       \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
       \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
       \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{В}
       \field{sortinithash}{769561dacf0468c568f33adb4926797c}
       \field{labelnamesource}{author}
@@ -210,6 +237,60 @@
       \verb https://ru.wikipedia.ru/wiki/%D0%91%D0%B0%D0%BD%D0%BD%D0%B5%D1%80
       \endverb
     \endentry
+    \entry{web:gradient}{online}{}
+      \name{author}{1}{}{%
+        {{hash=20611e934261298f5f6606ff791be2e3}{%
+           family={Википедия},
+           familyi={В\bibinitperiod}}}%
+      }
+      \strng{namehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{fullhash}{20611e934261298f5f6606ff791be2e3}
+      \strng{bibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
+      \field{extraname}{5}
+      \field{sortinit}{В}
+      \field{sortinithash}{769561dacf0468c568f33adb4926797c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Градиент}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82
+      \endverb
+      \verb{url}
+      \verb https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82
+      \endverb
+    \endentry
+    \entry{web:gold-ratio}{online}{}
+      \name{author}{1}{}{%
+        {{hash=20611e934261298f5f6606ff791be2e3}{%
+           family={Википедия},
+           familyi={В\bibinitperiod}}}%
+      }
+      \strng{namehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{fullhash}{20611e934261298f5f6606ff791be2e3}
+      \strng{bibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
+      \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
+      \field{extraname}{6}
+      \field{sortinit}{В}
+      \field{sortinithash}{769561dacf0468c568f33adb4926797c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Золотое сечение}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B5_%D1%81%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5
+      \endverb
+      \verb{url}
+      \verb https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B5_%D1%81%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5
+      \endverb
+    \endentry
     \entry{web:wiki-chess-history}{online}{}
       \name{author}{1}{}{%
         {{hash=20611e934261298f5f6606ff791be2e3}{%
@@ -222,7 +303,7 @@
       \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
       \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
       \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
-      \field{extraname}{4}
+      \field{extraname}{7}
       \field{sortinit}{В}
       \field{sortinithash}{769561dacf0468c568f33adb4926797c}
       \field{labelnamesource}{author}
@@ -231,10 +312,10 @@
       \field{title}{История шахмат}
       \field{year}{2022}
       \verb{urlraw}
-      \verb https://ru.wikipedia.org/wiki/Шахматы
+      \verb https://ru.wikipedia.org/wiki/История_шахмат
       \endverb
       \verb{url}
-      \verb https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B
+      \verb https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82
       \endverb
     \endentry
     \entry{web:wiki-ibca}{online}{}
@@ -249,7 +330,7 @@
       \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
       \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
       \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
-      \field{extraname}{5}
+      \field{extraname}{8}
       \field{sortinit}{В}
       \field{sortinithash}{769561dacf0468c568f33adb4926797c}
       \field{labelnamesource}{author}
@@ -276,7 +357,7 @@
       \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
       \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
       \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
-      \field{extraname}{6}
+      \field{extraname}{9}
       \field{sortinit}{В}
       \field{sortinithash}{769561dacf0468c568f33adb4926797c}
       \field{labelnamesource}{author}
@@ -303,7 +384,7 @@
       \strng{authorbibnamehash}{20611e934261298f5f6606ff791be2e3}
       \strng{authornamehash}{20611e934261298f5f6606ff791be2e3}
       \strng{authorfullhash}{20611e934261298f5f6606ff791be2e3}
-      \field{extraname}{7}
+      \field{extraname}{10}
       \field{sortinit}{В}
       \field{sortinithash}{769561dacf0468c568f33adb4926797c}
       \field{labelnamesource}{author}
@@ -312,10 +393,10 @@
       \field{title}{Шахматы}
       \field{year}{2022}
       \verb{urlraw}
-      \verb https://ru.wikipedia.org/wiki/История\_шахмат
+      \verb https://ru.wikipedia.org/wiki/Шахматы
       \endverb
       \verb{url}
-      \verb https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%5C_%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82
+      \verb https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B
       \endverb
     \endentry
     \entry{web:docs}{online}{}
