@@ -1,12 +1,7 @@
 \babel@toc {russian}{}\relax 
-\contentsline {section}{Аннотация}{3}{section*.2}%
-\contentsline {section}{Определения}{4}{section*.3}%
-\contentsline {section}{Обозначения и сокращения}{5}{section*.5}%
-\contentsline {section}{\numberline {1}Введение}{6}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Актуальность и обоснование проблемы}{6}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Тема работы}{6}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Цель работы}{6}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Задачи}{6}{subsection.1.4}%
+\contentsline {section}{Определения}{3}{section*.2}%
+\contentsline {section}{Обозначения и сокращения}{4}{section*.4}%
+\contentsline {section}{\numberline {1}Введение}{5}{section.1}%
 \contentsline {section}{\numberline {2}Основная часть}{7}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Анализ исторических прототипов и современных прототипов}{7}{subsection.2.1}%
 \contentsline {subsubsection}{\numberline {2.1.1}Шахматы}{7}{subsubsection.2.1.1}%
@@ -22,4 +17,4 @@
 \contentsline {subsection}{\numberline {3.2}Экологическая оценка}{17}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Вывод}{18}{subsection.3.3}%
 \contentsline {section}{Список литературы}{20}{subsection.3.3}%
-\contentsline {subsection}{Интернет--ресурсы}{20}{section*.8}%
+\contentsline {subsection}{Интернет--ресурсы}{20}{section*.14}%
