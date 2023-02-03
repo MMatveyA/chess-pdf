@@ -18,3 +18,4 @@
 \contentsline {subsection}{\numberline {3.3}Вывод}{18}{subsection.3.3}%
 \contentsline {section}{Список литературы}{20}{subsection.3.3}%
 \contentsline {subsection}{Интернет--ресурсы}{20}{section*.14}%
+\contentsline {section}{\numberline {A}Чертежи}{22}{appendix.A}%
