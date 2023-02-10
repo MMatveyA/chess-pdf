@@ -129,7 +129,7 @@
       \verb http://teacode.com/online/udc/index.html
       \endverb
     \endentry
-    \entry{web:gimp}{online}{}
+    \entry{web:inkscape}{online}{}
       \name{author}{1}{}{%
         {{hash=20611e934261298f5f6606ff791be2e3}{%
            family={Википедия},
@@ -146,14 +146,14 @@
       \field{sortinithash}{769561dacf0468c568f33adb4926797c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{01}
-      \field{title}{GIMP}
+      \field{month}{02}
+      \field{title}{Inkscape}
       \field{year}{2023}
       \verb{urlraw}
-      \verb https://ru.wikipedia.org/wiki/GIMP
+      \verb https://ru.wikipedia.org/wiki/Inkscape
       \endverb
       \verb{url}
-      \verb https://ru.wikipedia.org/wiki/GIMP
+      \verb https://ru.wikipedia.org/wiki/Inkscape
       \endverb
     \endentry
     \entry{web:wiki-latex}{online}{}

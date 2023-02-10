@@ -2345,7 +2345,7 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">web:wiki-latex</bcf:citekey>
-    <bcf:citekey order="2">web:gimp</bcf:citekey>
+    <bcf:citekey order="2">web:inkscape</bcf:citekey>
     <bcf:citekey order="3">web:wiki-vim</bcf:citekey>
     <bcf:citekey order="4">web:gradient</bcf:citekey>
     <bcf:citekey order="5">web:gold-ratio</bcf:citekey>
@@ -2363,7 +2363,7 @@
     <bcf:citekey order="16">web:blind-chess-price-min</bcf:citekey>
     <bcf:citekey order="17">web:blind-chess-price-max</bcf:citekey>
     <bcf:citekey order="18">web:wiki-latex</bcf:citekey>
-    <bcf:citekey order="19">web:gimp</bcf:citekey>
+    <bcf:citekey order="19">web:inkscape</bcf:citekey>
     <bcf:citekey order="20">web:wiki-vim</bcf:citekey>
     <bcf:citekey order="21">web:gradient</bcf:citekey>
     <bcf:citekey order="22">web:gold-ratio</bcf:citekey>
